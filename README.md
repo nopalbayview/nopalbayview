@@ -2,12 +2,14 @@
     <img src="https://media.tenor.com/VGVzIV1f-qQAAAAm/genshin-genshin-impact.webp" width="110">
 </p>
 
-<h1 align="center">👋Hi There, I'm Nouval Adibayu Kencono</h1>
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="40" />
+Hi There, I'm Nouval Adibayu Kencono</h1>
 
 <p align="center">
-<code>💻 Web Development</code>
+<code>🌐 Web Development</code>
 •
-<code>✏️ UI UX Designer</code>
+<code>💻 Software Engineer</code>
 •
 <code>⚙️ Backend Engineering</code>
 •
@@ -18,7 +20,7 @@
 
 ---
 
-<h1>👨‍💻 About Me</h1>
+<h3>🧑🏻‍💻 About Me</h3>
 
 ```sql
 SELECT
@@ -63,12 +65,8 @@ WHERE username = 'Nouval';
 
 [![Connection](https://skillicons.dev/icons?i=instagram,discord,gmail,spotify)](https://skillicons.dev)
 
-## 📊 GitHub Statistics
+<h4>📊 GitHub Statistics</h4>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nopalbayview&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nopalbayview&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nopalbayview&theme=github-dark&hide_border=true"/>
 </p>
