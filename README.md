@@ -71,7 +71,7 @@ WHERE username = 'Nouval';
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="mailto:nouvaladibayu08@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nouvaladibayu08@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
