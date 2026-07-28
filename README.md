@@ -62,8 +62,27 @@ WHERE username = 'Nouval';
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,npm,windows,powershell)](https://skillicons.dev)
 
 <h4>🔗 Connection</h4>
+<p>
+  <a href="https://github.com/nopalbayview" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-[![Connection](https://skillicons.dev/icons?i=instagram,discord,gmail,spotify)](https://skillicons.dev)
+  <a href="https://instagram.com/lav_u.on" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="mailto:nouvaladibayu08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://discord.gg/bayview.php">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+
+  <a href="https://open.spotify.com/user/sattlexlake">
+    <img src="https://skillicons.dev/icons?i=spotify" />
+  </a>
+</p>
 
 <h4>📊 GitHub Statistics</h4>
 
