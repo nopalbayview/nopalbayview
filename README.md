@@ -9,11 +9,9 @@ Hi There, I'm Nouval Adibayu Kencono</h1>
 <p align="center">
 <code>🌐 Web Development</code>
 •
-<code>💻 Software Engineer</code>
+<code>💻 Software Engineering Student</code>
 •
-<code>⚙️ Backend Engineering</code>
-•
-<code>✨ Tech Enthusiast</code>
+<code>🗄️ Database Enthusiast</code>
 •
 <code>📍Malang, Indonesia</code>
 </p>
