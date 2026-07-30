@@ -90,6 +90,10 @@ WHERE username = 'Nouval';
   </a>
 </p>
 
+---
+
+<code>README.sql</code>
+
 ```sql
 SELECT *
 FROM coffee;
@@ -100,5 +104,5 @@ SELECT *
 FROM developers
 WHERE visitor = 'You';
 
--- Thanks for your visit
+-- Thanks for your visit!
 ```
