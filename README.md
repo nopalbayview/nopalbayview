@@ -41,7 +41,7 @@ WHERE name = 'Nouval';
 | role           | Backend Developer                         |
 | location       | Malang, Indonesia                         |
 | school         | SMK PGRI 3 Malang                         |
-| description    | Want to learn frontend too             |
+| description    | Want to learn frontend too                |
 +----------------+-------------------------------------------+
 ```
 
