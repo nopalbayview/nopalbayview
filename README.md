@@ -31,16 +31,17 @@ SELECT
     name,
     role,
     location,
-    school
+    school,
+    description
 FROM developers
-WHERE description = 'learning';
+WHERE name = 'Nouval';
 
 +----------------+-------------------------------------------+
 | name           | Nouval Adibayu Kencono                    |
 | role           | Backend Developer                         |
 | location       | Malang, Indonesia                         |
 | school         | SMK PGRI 3 Malang                         |
-| description    | Want to learning frontend too             |
+| description    | Want to learn frontend too             |
 +----------------+-------------------------------------------+
 ```
 
