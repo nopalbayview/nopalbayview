@@ -55,19 +55,19 @@ WHERE name = 'Nouval';
 
 <h4>💻 Backend</h4>
 
-[![Backend](https://skillicons.dev/icons?i=php,python,java,js,nodejs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=php,python,java,nodejs)](https://skillicons.dev)
 
 <h4>🎨 Frontend</h4>
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 <h4>🧰 Framework & Libraries</h4>
 
-[![Frameworks](https://skillicons.dev/icons?i=laravel,flask,django,jquery,vite)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=laravel,flask,django,jquery,vite,nextjs,vue)](https://skillicons.dev)
 
 <h4>🗄️ Database</h4>
 
-[![Database](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 <h4>🛠️ Tools</h4>
 
